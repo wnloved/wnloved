@@ -15,7 +15,7 @@ Favourite coding language: TypeScript
 
 Favorite framework: Node.js
 ## Coding stack 🖥️
-Languages: Python, JavaScript, TypeScript, SQL
+Languages: HTML, CSS, Python, JavaScript, TypeScript, SQL
 
 Frameworks: Node.js, Nest.js, Express.js, React, Redux, Django, TelegramBot
 
